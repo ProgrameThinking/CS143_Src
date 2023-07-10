@@ -1,1 +1,1 @@
-# CS142_Src
+The solution of Programming Assignment for CS143(Stanford).
