@@ -56,7 +56,7 @@ int stack=1;
 
 DARROW          =>
 ASSIGN          <-
-LE              =>
+LE              <=
 CLASS           [Cc][Ll][Aa][Ss][Ss]
 ELSE            [Ee][Ll][Ss][Ee]
 IF              [Ii][Ff]
